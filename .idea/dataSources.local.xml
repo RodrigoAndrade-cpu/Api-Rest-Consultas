@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-252.26830.84">
+    <data-source name="vollmed_api@localhost" uuid="e640a449-a502-4228-8fca-426aad93f677">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>Rodrigo</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
