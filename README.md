@@ -134,18 +134,21 @@ Usar em todas as rotas:
 Authorization: Bearer <token>
 
 📚 Endpoints Principais
+
 🧑‍⚕️ Médicos
 Método	Endpoint	Descrição
 POST	/medicos	Cadastrar
 GET	/medicos	Listar
 PUT	/medicos	Atualizar
 DELETE	/medicos/{id}	Excluir
+
 👤 Pacientes
 Método	Endpoint	Descrição
 POST	/pacientes	Cadastrar
 GET	/pacientes	Listar
 PUT	/pacientes	Atualizar
 DELETE	/pacientes/{id}	Excluir
+
 📅 Consultas
 Método	Endpoint	Descrição
 POST	/consultas	Agendar
